@@ -1,10 +1,19 @@
 ---
-title: "Why We Read History"
-date: 2020-05-18T01:41:52+08:00
+title: "我为何要坚持读历史"
+date: 2020-04-25T01:41:52+08:00
 draft: true
+categories:
+- 历史/思考/成长
+tags:
+- 历史
+- 思考
+keywords:
+- 历史
+- 思考
+description: 历史有科学的精深，也有艺术的魅力。
+keywords: 效率 MacOS
 ---
 
-## 为何读史
 ### 1.
 
 德国哲学家[威廉·文德尔班](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E6%96%87%E5%BE%B7%E5%B0%94%E7%8F%AD)说过：“人是有历史的动物”；史学的起源，是非常古老的。 商代祭祀的时候人们就把国之大事记录在甲骨上，也就是今天的甲骨文。<br><br>

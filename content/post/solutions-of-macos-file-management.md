@@ -1,10 +1,18 @@
 ---
-title: "Solutions of Macos File Management"
-date: 2020-05-18T01:45:20+08:00
-draft: true
----
+title: '"多多益善"的MacOS文件管理方案'
+date: 2020-05-08T01:45:20+08:00
+categories:
+- MacOS效率提升
+tags:
+- 效率
+- MacOS
+keywords:
+- 效率
+- MacOS
+description: 满足快速决策、自动执行、归类有序、查阅便捷的文件管理方案，便是节省心力、且一劳永逸的。
+keywords: 效率 MacOS
 
-# "多多益善"的MacOS文件管理方案
+---
 
 汉高祖刘邦曾问大将韩信：“你看我能带多少兵？”韩信斜了刘邦一眼说：“你顶多能带十万兵吧！”汉高祖心中有三分不悦，心想：你竟敢小看我！“那你呢？”韩信傲气十足地说：“我呀，当然是多多益善啰！”
 
@@ -279,4 +287,4 @@ MacOS文件管理.zip
 1. 可以自动化管理Mac文件的工具 https://www.noodlesoft.com/
 2. Apple的统一类型标识符 https://developer.apple.com/library/archive/documentation/Miscellaneous/Reference/UTIRef/Articles/System-DeclaredUniformTypeIdentifiers.html
 3. iCloud Drive/Marked_iCloud 的实际路径为：~ /Library/Mobile\ Documents/com\~apple\~CloudDocs/marked_iCloud/
-4. 附件资源地址 [https://chendongze.oss-cn-shanghai.aliyuncs.com/article/MacOS%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.zip](https://chendongze.oss-cn-shanghai.aliyuncs.com/article/MacOS文件管理.zip)
+4. 附件资源地址 [https://chendongze.oss-cn-shanghai.aliyuncs.com/article/MacOS%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.zip](https://chendongze.oss-cn-shanghai.aliyuncs.com/article/MacOS文件管理.zip)···
