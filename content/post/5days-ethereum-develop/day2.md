@@ -165,7 +165,7 @@ module.exports = {
 
 ```
 
-切换 `transferEth.js ` 引用的 `local.config.js` 文件
+切换 `transferEth.js ` 引用为 `local.config.js` 文件
 
 ```js
 const Web3 = require('web3');
