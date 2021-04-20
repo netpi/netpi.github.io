@@ -9,6 +9,7 @@ tags:
 - blockchain
 keywords: Ethereum2.0 ETH2.0 Staking blockchain
 description: 根据 ETH2.0（以太坊2.0）的 PoS（权益证明）共识机制，只要持有一定数量的以太坊就可以成为 Validator（验证者），而 Validator 参与 Vote（投票）之后，会获得报酬。
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/zdf1h.png
 ---
 
 ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/pln5g.png)

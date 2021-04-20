@@ -8,6 +8,7 @@ tags:
 - Apple
 keywords:
 description: Apple 微信公众号，精致的细节、酷炫的动画让人不得不佩服 Apple 团队的用心与专业。经过源码分析后发现，Apple 的微信公众号在排版上用了一些黑科技，其中包括了 SVG、Flex Layout、Chrome Inspect 等 Web 前端技术。我今天就给大家分享下，Apple 微信公众号的效果是如何制作出来的。
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/ypdov.jpg
 ---
 
 ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/9gjn3.png)

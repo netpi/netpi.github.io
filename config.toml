@@ -1,7 +1,7 @@
 baseURL = "https://eurychen.me"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "陈东泽（Eurychen）记录成长"
+title = "陈东泽（Eurychen）| 东泽煮粥 - 所见所闻所学所想，煮成一锅粥"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -61,7 +61,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
 
-  logoTitle = "EURY"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "东泽煮粥"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["陈东泽", "eurychen","区块链","blockchain","历史"]
   description = "陈东泽（Eurychen）个人博客，分享区块链技术/MacOS技巧/观点与思考"
 
@@ -182,7 +182,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [markup.goldmark.renderer]
     unsafe= true
-    
+
   [params.social]                                         # 社交链接
     a-email = "mailto:moon@netpi.me"
 #   b-stack-overflow = "http://localhost:1313"

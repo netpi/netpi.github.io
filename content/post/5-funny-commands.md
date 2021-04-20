@@ -10,6 +10,7 @@ tags:
 
 keywords: macos 命令行工具推荐 terminal工具推荐
 description: 命令行工具推荐 | 作为程序员，我们都有自己的鱼塘，而且变成了水族馆，里面的每一条鱼儿都是二进制的，都是我们用代码编写的。水族馆里不仅有各式漂亮的鱼儿、水草、气泡，水面上还会偶尔出现鲸鱼、尼斯湖水怪、大鹅、帆船。怎么样？有趣吧！
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/u7nqd.jpg
 ---
 ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/u7nqd.jpg)
 ## asciiquarium - 把命令行变成水族馆

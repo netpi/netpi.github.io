@@ -11,7 +11,7 @@ tags:
 
 keywords: 平行宇宙 相对论 量子力学 超弦理论
 description: 本文将在科学而非科幻的范畴内向你展示3种类型的平行宇宙,百纳被多重宇宙；量子力学的多世界诠释；存在于465亿光年之外的宇宙空间;弦理论框架下的膜宇宙；
-
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/9whl6.png
 ---
 
 

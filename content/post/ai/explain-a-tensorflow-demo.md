@@ -8,6 +8,7 @@ tags:
 - tensorflow
 keywords: tensorflow 神经网络 机器学习
 description: ​本文站在全局视角，通过分析一个 TensorFlow 官方的 Demo 来达到俯瞰一个「机器学习」系统的效果，从而让读者看清这个头大象的全貌，帮助初学者入门「机器学习」。
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/rdyuj.jpg
 ---
 ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/31hy7.png)
 
