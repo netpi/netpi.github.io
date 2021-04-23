@@ -8,9 +8,10 @@ tags:
 - blockchain
 keywords: 投资 blockchain debank
 description: 
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/gszho.png
 ---
 
-![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/vqwgh.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/gszho.png)
 
 投资的狠人，往往是这样的。无论面对多剧烈的价格波动，他们总是云淡风轻的看一眼K线，若有所思的呆滞几秒，又突然的微微一笑，然后就该干嘛干嘛去了。除了定投之外，他们操作频次趋近于 0。但事实上，就是这些活动指数最低的一批人，享受到了大周期最高的红利。
 

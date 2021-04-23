@@ -8,7 +8,11 @@ tags:
 - blockchain
 keywords:
 description: 
+cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/yd93d.png
+top: true
 ---
+
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/yd93d.png)
 
 ## ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/k9u5c.png)
 
