@@ -186,7 +186,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [params.social]                                         # 社交链接
     a-email = "mailto:moon@netpi.me"
 #   b-stack-overflow = "http://localhost:1313"
-   c-twitter = "https://twitter.com/EuryChen"
+    # c-twitter = "https://twitter.com/EuryChen"
     # d-facebook = "http://localhost:1313"
     # e-linkedin = "http://localhost:1313"
     # f-google = "http://localhost:1313"
@@ -199,6 +199,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     m-instagram = "https://www.instagram.com/azething/"
     # n-gitlab = "http://localhost:1313"
     # o-bilibili = "http://localhost:1313"
+    # o-wechat = "http://localhost:1313"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
