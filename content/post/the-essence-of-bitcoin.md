@@ -2,14 +2,14 @@
 title: "多年后，我终于看清了比特币的本质"
 date: 2021-04-10T09:11:00+08:00
 categories: 
-- bitcoin
+- 区块链
 tags:
 - bitcoin
 - blockchain
 keywords:
 description: 
 cover_p: https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/yd93d.png
-top: true
+top: false
 ---
 
 ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/yd93d.png)

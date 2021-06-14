@@ -2,7 +2,7 @@
 title: "如何用一台 MacBook 创造高额年化收益 | ETH2.0 Staking 教程"
 date: 2020-06-05T14:32:35+08:00
 categories: 
-- ETH2.0
+- 区块链
 tags:
 - Ethereum2.0
 - ETH2.0

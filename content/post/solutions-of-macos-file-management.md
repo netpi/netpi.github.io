@@ -2,7 +2,7 @@
 title: '"多多益善"的MacOS文件管理方案'
 date: 2020-05-08T01:45:20+08:00
 categories:
-- MacOS效率提升
+- 技能
 tags:
 - 效率
 - MacOS

@@ -2,7 +2,7 @@
 title: "读懂一个 demo，入门机器学习"
 date: 2020-06-23T12:38:41+08:00
 categories: 
-- tensorflow
+- 技能
 tags:
 - 机器学习
 - tensorflow

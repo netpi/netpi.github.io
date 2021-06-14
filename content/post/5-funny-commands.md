@@ -2,7 +2,7 @@
 title: "原来程序员都有鱼塘，甚至变成了水族馆 | 5个有趣的命令行工具推荐"
 date: 2020-06-10T12:19:25+08:00
 categories:
-- macos工具
+- 技能
 tags:
 - macos
 - asciiquarium

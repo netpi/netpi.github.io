@@ -2,7 +2,7 @@
 title: "月薪 3W 的 Apple 微信编辑是这么发文章的 |如何发类似 Apple 微信公众号的文章效果"
 date: 2020-06-12T11:05:01+08:00
 categories:
-- 微信公众号玩法
+- 技能
 tags:
 - 微信
 - Apple

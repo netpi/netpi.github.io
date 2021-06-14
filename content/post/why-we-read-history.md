@@ -3,7 +3,7 @@ title: "我为何要坚持读历史"
 date: 2020-04-25T01:41:52+08:00
 draft: true
 categories:
-- 历史/思考/成长
+- 历史
 tags:
 - 历史
 - 思考
