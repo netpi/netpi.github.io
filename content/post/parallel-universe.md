@@ -16,12 +16,12 @@ top: false
 ---
 
 
-![](https://cdn.mirrorplusplus.com/ipic/eor8z.gif)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/eor8z.gif)
 >有两样东西，我们愈经常愈持久地加以思索，它们就愈使心灵充满日新月异、有加无已的景仰和敬畏：在我之上的星空和居我心中的道德法则。
 >  ——康德
 <br>
 
-## ![](https://cdn.mirrorplusplus.com/ipic/cv0c5.png)
+## ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/cv0c5.png)
 
 凝望夜空，你是否思索过，在浩瀚的宇宙最深处存在着若干个“自己”，你们外貌相同，却各自经历着截然不同的命运；
 
@@ -30,7 +30,7 @@ top: false
 每个选项都蝴蝶效应般的决定了你的人生旅程，也许一马平川、也许崎岖不平、或许硕果累累、也或许沼泽泥泞。
 
 如若站在路口的那一刻，你大脑神经元上的电荷信息有了微妙改变，导致你走向了另一个方向，那么你现在的人生旅程将会怎么样？
-![](https://cdn.mirrorplusplus.com/ipic/jincy.gif)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/jincy.gif)
 
 平行宇宙理论虽不能得知其它的旅程是否同样精彩，但可告知于你的是:
 
@@ -50,7 +50,7 @@ top: false
 <small><i>ps.本文将默认读者不具备物理学的专业知识</i></small>
  <br>
 
-![](https://cdn.mirrorplusplus.com/ipic/0meuf.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/0meuf.png)
 
 > 即使我身处果壳之中，仍以为自己是宇宙之王
 > --斯蒂芬·霍金
@@ -59,13 +59,13 @@ top: false
 
 也就是说，即使你具有千里眼的特异功能，最远也只能看到465亿光年之内的东西，这是由于光速所限。
 
-![](https://cdn.mirrorplusplus.com/ipic/g46pj.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/g46pj.png)
 
 **你也许疑惑：宇宙的年龄不过140亿年，为什么“粒子视界”的半径却可以达到465亿光年？**
 
 这是由于宇宙空间在宇宙大爆炸之初就开始不断的膨胀，且越远的地方膨胀越快，甚至速度快过了光速。所以当137亿年前大爆炸之初的宇宙微波背景辐射抵达我们的地球时，当年的发光区域已经随着宇宙空间的膨胀到达了距离我们465亿光年的地方，那里的膨胀速度已经大于光速，于是光子便无法抵达我们的地球。
 
-![](https://cdn.mirrorplusplus.com/ipic/yqt3o.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/yqt3o.png)
 
 **根据爱因斯坦相对论：Nothing can't move through space faster than light，没啥可以比光在空间通行速度更快。那么上文提到，空间的膨胀速度超过了光速是否违背了相对论？**
 
@@ -73,11 +73,11 @@ top: false
 
 空间膨胀所致的两点距离变化就好比气球上两个点静止的点的随着气球的膨胀越来越远。
 
-![](https://cdn.mirrorplusplus.com/ipic/cmnci.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/cmnci.png)
 
 粒子视界决定了我们当前的观测范围是以地球为中心465亿光年为半径的球形空间。本文我们就把这个巨大的球形空间称作我们的宇宙。
 
-![](https://cdn.mirrorplusplus.com/ipic/zpwxx.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/zpwxx.png)
 
 <br>
 **那么465亿光年之外的宇宙空间，也就是那些未知宇宙空间还有多大呢？**
@@ -87,7 +87,7 @@ top: false
 
 这N多个巨大的球形宇宙空间由于光都来不及互相抵达，因此他们就不曾互相影响过，所以他们的各自发展是相互独立的。
 
-![](https://cdn.mirrorplusplus.com/ipic/mgpy5.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/mgpy5.png)
 
 **现在我们根据以下两个条件做出一些思考:**
 1. 现代的测量结果表示宇宙的空间曲率0，这意味着宇宙空间是无限大的。
@@ -101,7 +101,7 @@ top: false
 
 经过计算，那个完全相同的宇宙出现的期望距离是距离地球10^(10^122)米。这是个大到难以理解的距离，也许直到时间的尽头人类文明也无法抵达那个遥远的“孪生宇宙”，但是理论上它确实存在。
 
-![](https://cdn.mirrorplusplus.com/ipic/4a7ao.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/4a7ao.png)
 
 以上，我们通过物理知识对宇宙做出了预测：在遥远的空间之外，存在一个与我们的宇宙中粒子排布与粒子运动状态完全相同的宇宙。
 
@@ -123,10 +123,10 @@ top: false
 
 这就是百纳被多重宇宙，如果把宇宙想象成一个二维空间中无限大且满是补丁的被子，每一块补丁都代表了大小相同且各自独立演化的空间。由于被子大小无限，那么无限大的被子就将穷举出补丁的所有的可能，如果其中一块补丁代表了你所处的宇宙，那么被子上必然还能找到另一块一模一样的补丁，也就是你的平行宇宙。
 
-![](https://cdn.mirrorplusplus.com/ipic/q9hcc.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/q9hcc.png)
 <br>
 
-## ![](https://cdn.mirrorplusplus.com/ipic/iyl7o.png)
+## ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/iyl7o.png)
 
 > 谁要是懂得量子力学，那他就是真的不懂量子力学
 > --理查德·费曼
@@ -175,15 +175,15 @@ top: false
 * 屏障
 
 准备好了器材之后实验就开始了，我们用电子枪对着钢板连续发射电子，一段时间后记录观察钢板后方屏障上电子落点位置。
-![](https://cdn.mirrorplusplus.com/ipic/lczsl.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/lczsl.png)
 
 观测屏障我们发现，电子在屏障上形成了明暗相间的条纹，明条纹代表电子落上的数量多，暗条纹代表电子落上的数量少。
 
-![](https://cdn.mirrorplusplus.com/ipic/v9agk.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/v9agk.png)
 
 到目前为止，中学顺利毕业的你也许可以解释这个现象，这是因为电子具有波粒二象性，一连串的电子射向钢板时展现了粒子的波动性形成了一道道波，两个粒子表现出的波特性分别通过钢板上的双缝时衍射出来了两道波，这两道衍射波相遇便发生了波的干涉，最后在屏障上形成了明暗相间的干涉条纹。
 
-![](https://cdn.mirrorplusplus.com/ipic/6rj6z.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/6rj6z.png)
 
 如果你能读懂以上结论，那么我允许你保留三秒钟的骄傲。因为实验接下来将发生的一切，或许将改变你对这个世界的原有认知。
 <br>
@@ -191,13 +191,13 @@ top: false
 
 现在我们将实验稍作修改，将之前用电子枪连续发射电子，改成电子枪间隔发射单个电子，其它不变，也就是单粒子的双缝干涉实验。
 
-![](https://cdn.mirrorplusplus.com/ipic/mtz66.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/mtz66.png)
 
 思考一下，如果电子枪间隔发射单个电子，一段时间后电子的落点会在屏障上会体现怎样的图案呢？
 
 现在直接看答案，如下图：
 
-![](https://cdn.mirrorplusplus.com/ipic/v9agk.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/v9agk.png)
 
 没错，电子的落点基本没有变化。电子枪不连续的间隔发射单个电子，在一定时间之后所有电子的落点依旧在屏障上形成了明暗相见的条纹。
 
@@ -217,12 +217,12 @@ top: false
 
 为了进一步搞清楚到底发生了什么，我们再次更改实验，我们要知道一个粒子是如何同时经过A缝和B缝的。增加电子探测装置，来观测电子下究竟如何分身。
 
-![](https://cdn.mirrorplusplus.com/ipic/9pcrb.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/9pcrb.png)
 
 随着电子枪单发射击，探测器开始监测电子的动向，屏障上也开始出现了电子落点所形成的亮斑。
 
 我们期待着探测器同时捕获电子和他的分身，可最终的结果再次让人大跌眼镜。
-![](https://cdn.mirrorplusplus.com/ipic/5pckw.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/5pckw.png)
 
 探测器监测到的电子并没有同时出现在A缝和B缝，而是要么在A缝要么在B缝，并且屏障上的干涉条纹也消失了，取而代之的是与AB两缝分别对应着的两道亮斑带，这分明是电子的粒子性直接通过两条缝形成的落点。这说明，这一次粒子并没有表现出波的特性，也不存在分身了，当然也就无法自己与自己发生干涉。
 
@@ -254,7 +254,7 @@ top: false
 
 如此一来，当掷硬币这个量子随机事件发生之后，世界就分裂了，硬币正面朝上的信息通过你的视网膜传达到大脑皮层，而后你决定晚餐吃垃圾食品并打游戏，这样一系列事件将串联成一个世界；同样的，硬币反面朝向的信息通过网膜传达到大脑皮层，而后你决定水果餐并运动的一系列事件串联成另一个世界；而这两个世界相互平行各自演化。
 
-![](https://cdn.mirrorplusplus.com/ipic/lvd7t.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/lvd7t.png)
 <br>
 ###  你存在的世界才是对你有意义的世界
 
@@ -264,11 +264,11 @@ top: false
 
 还记得电影《国产凌凌漆》里，周星驰的古灵精怪枪么，这把枪很神奇，每次开枪，先向后射再向前射，一后一前一后...
 
-![](https://cdn.mirrorplusplus.com/ipic/h6jvm.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/h6jvm.png)
 
 现在，我们给这把古灵精怪枪做一次量子改装，每次开枪向前、向后开火的概率各占50%。
 
-![](https://cdn.mirrorplusplus.com/ipic/vti6p.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/vti6p.png)
 
 **假如你用这把改装过的古灵精怪枪对着自己脑袋开枪自杀，会发生什么？**
 
@@ -291,7 +291,7 @@ top: false
 热力学第二定律告诉我们，一个封闭系统如若任其自由发展，整个系统必定趋向熵增而无序的混乱。所以，接受并包容新的理论，便是从系统外获得做功，整个系统的发展才会趋向熵减而有序。如此，物理学便能如日方升，欣欣向荣。
 <br>
 
-## ![](https://cdn.mirrorplusplus.com/ipic/n7gna.png)
+## ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/n7gna.png)
 
 1963年，剑桥大学的新年派对上一名叫简· 怀尔德的女孩风姿卓越时尚优雅。当时还在剑桥大学三一学院的攻读理论物理的霍金对简一见钟情，便主动搭话。简认为对面这个男孩谈吐风趣气质独特，便问他的信仰是什么。微醺的霍金放下酒杯，看着简温柔地说：“找到解释宇宙万物的方程”。后来两人迅速坠入爱河。之后的霍金患上了渐冻症，简一直陪伴在霍金身边照顾了他20年。
 
@@ -305,7 +305,7 @@ top: false
 
 **超弦理论认为组成世间万物的基本单元是一根根一维的细丝，这些细丝并不是由原子或者分子构成，这细丝便是万物最最基本的组成单元，就好像琴弦，转轴拨弦是音符，细丝的不同共振模式便是不同粒子**
 
-![](https://cdn.mirrorplusplus.com/ipic/d06qt.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/d06qt.png)
 
 也就是说，所有的物质的基本单元都是相同的，都是一根弦。所有的弦都是完全一样的，而区别在于每根弦所经历不同的共振模式。同样的弦，有的振动模式表现为电子、有的表现为引力子等等...。
 
@@ -362,7 +362,7 @@ top: false
 目前，超弦理论还没有强有力的证据支持，所以被很多学术大佬忽视。但是回望物理学的历史，伟大理论被学术界忽视的原因，往往正是因为其超越了所在的时代。若干年后，如果最终统一了量子力学与相对论的是超弦理论的“音符”，那这必将成为最精彩绝伦的物理史话。
 <br>
 
-## ![](https://cdn.mirrorplusplus.com/ipic/uc1nq.png)
+## ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/uc1nq.png)
 
 近一个世纪物理学已然蓬勃发展，美国科学家彭齐亚斯和R.W.威尔逊探测到了宇宙微波背景辐射，让我们看到了宇宙婴儿时期的照片，证明了宇宙的大爆炸理论；黑洞的发现印证了广义相对论的预言，时空可以弯曲、时间也可以变慢；中国科学技术大学已然研制出了76光子的九章量子计算机而获得了量子霸权；
 
